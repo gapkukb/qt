@@ -1,0 +1,29 @@
+{
+  "name": "qt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mark.probst/unicode-properties": "^1.1.0",
+    "collection-utils": "^1.0.1",
+    "js-base64": "^3.6.0",
+    "pako": "^2.0.2",
+    "pluralize": "^8.0.0",
+    "yaml": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.14",
+    "@types/pako": "^1.0.1",
+    "@types/pluralize": "^0.0.29",
+    "@types/urijs": "^1.19.13",
+    "@types/wordwrap": "^1.0.0",
+    "urijs": "^1.19.2",
+    "wordwrap": "^1.0.0"
+  }
+}
